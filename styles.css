@@ -51,6 +51,7 @@ body {
 
 .col1 {
     background-color: rgb(175, 172, 172);
+    min-height: 100vh;
 }
 
 .col3 {
